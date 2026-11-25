@@ -1,0 +1,16 @@
+{
+	"name": "annugrahaspotifyadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1f3e09a-7b2e-4390-a995-1a7812d84a4f",
+		"tenantId": "a008860c-64aa-4bcf-9ff1-51213162e9e5"
+	}
+}
